@@ -1,0 +1,7 @@
+*.pyc
+tmp/
+*.db
+.vscode/
+data/
+migrations/
+Pipfile.lock
